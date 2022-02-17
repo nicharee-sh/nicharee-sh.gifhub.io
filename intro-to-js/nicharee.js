@@ -9,5 +9,5 @@ function AskMyName() {
 
 function HelloWorld() {
     const h1message = document.getElementById ("mynameis").innerHTML
-    alert(h1message + ' ข้าวมันไก่ หรือจะสู้ ข้าวมาใกล้ๆหน่อยอยากกอด')
+    alert(h1message + ' ชายแรกเป็นความรู้ ชายชู้เป็นประสบการณ์')
 }
