@@ -1,0 +1,32 @@
+.figure {
+    margin: 20%;
+}
+
+ul {
+    list-style-position: outside;
+    padding-inline-start: 0px;
+}
+  
+  li {
+    list-style-type: none;
+}
+
+.ca-menu {
+    display: flex;
+    height: 100%;
+}
+  
+  .ca-menu li {
+    padding-left: 16px;
+}
+
+.ca-navbar-menu {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.beta {
+  color: yellow;
+  background-color: indigo;
+}
