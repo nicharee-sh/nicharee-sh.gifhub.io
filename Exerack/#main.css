@@ -1,5 +1,5 @@
-.figure {
-    margin: 20%;
+.selector-for-some-widget {
+  box-sizing: content-box;
 }
 
 ul {
@@ -26,7 +26,6 @@ ul {
     justify-content: flex-end;
 }
 
-.beta {
-  color: yellow;
-  background-color: indigo;
+.border {
+  color: greenyellow;
 }
